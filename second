@@ -1,8 +1,0 @@
- 
- this is second file content trail
- what is gitfetch
- The Git Fetch command is used to fetch all changes from the remote repository to the local repository.
- It doesn’t make any changes to the current working directory. 
- It stores all the changes in a separate branch called the remote-tracking branch.
- git merge or git rebase command is used to merge these changes into our current working directory.
-
